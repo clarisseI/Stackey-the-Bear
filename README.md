@@ -1,6 +1,6 @@
 ## Stackey-the-Bear
 
-### Uses: Stacks, Queue
+### Uses: JAVA, Stacks, Queue
 
 #### Part I
 Stackey the Bear puts out forest fires. The forest is represented by an 11 x 11 grid with rows and columns labeled from 0 to 10. Stackey starts out at home base which is (0,0) at time 0. When Stackey gets a call about  a forest fire, and Stackey is not going to a fire or putting out a fire at the time of the call, Stackey will go the location of the fire and put it out. If Stackey is busy moving to a fire or putting one out when a call comes in, Stackey will put the new call on a stack. When Stackey is done putting out the current fire, and the stack of calls is not empty, Stackey will pop the stack and answer that call. When Stackey is done putting out a fire, and there are no calls on the stack, Stackey will stop where Stackey is and wait for the next call. Stackey always moves one square left, right, up or down at a time. Stackey never moves diagonally. Moving 
